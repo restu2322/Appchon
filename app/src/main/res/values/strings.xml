@@ -8,4 +8,8 @@
     <string name="login">Login</string>
     <string name="register">Register</string>
     <string name="full_name">Full Name</string>
+    <string name="ic_home">Homey</string>
+    <string name="ic_news">News</string>
+    <string name="ic_favorite">Favorite</string>
+    <string name="ic_profile">Profile</string>
 </resources>
